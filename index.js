@@ -1,5 +1,11 @@
 // Whenever you are adding anything to an existing file, you are changing the version and creating new version. Version control is a version management system used to track the different versions of codes that is being born each time we work on the code on the code base.
 
+let nyDetails = {
+    userName : "phemi",
+    age : 30,
+    isMale : true
+}
+
 // Types of Version Control System
 // 1. Centralised Version Control System : A copy is kept in a central server
 // 2. Decentralised Version Control System : A copy is kept on each engineer's code base.
@@ -18,3 +24,4 @@
 // git checkout femi : To go out of master branch to femi branch
 // git branch -d femi : To delete the branch
 // P.S : Always create your own branch and work in it befor pushing to the master branch. Do not work in the master branch.
+// git pull : To collect the most recent code another developer pushed to the file
