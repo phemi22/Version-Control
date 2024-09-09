@@ -24,4 +24,5 @@ let nyDetails = {
 // git checkout femi : To go out of master branch to femi branch
 // git branch -d femi : To delete the branch
 // P.S : Always create your own branch and work in it befor pushing to the master branch. Do not work in the master branch.
-// git pull : To collect the most recent code another developer pushed to the file
+// git pull : To collect the most recent code another developer pushed to the file and merge it to my own code
+// git fetch : It will get the changes the other developers made to the code. This is more reasonable because it give us room to see the changes first before mergin it to our own code
